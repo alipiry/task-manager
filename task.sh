@@ -1,8 +1,8 @@
 #!/bin/sh
 #title           :task.sh
 #description     :task manager for specific stuff designed by quera.ir for rahnema college internship.
-#author		       :Ali Piry <yripila@gmail.com>
-#usage		       :bash task.sh
+#author		     :Ali Piry <yripila@gmail.com>
+#usage		     :bash task.sh
 #==============================================================================
 
 if [ ! -f tasks.txt ]; then
