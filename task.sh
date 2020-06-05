@@ -1,7 +1,7 @@
 #!/bin/sh
 #title           :task.sh
 #description     :task manager for specific stuff designed by quera.ir for rahnema college internship.
-#author		     :Ali Piry <yripila@gmail.com>
+#author		     :Ali Piry <alipiry@disroot.org>
 #usage		     :bash task.sh
 #==============================================================================
 
